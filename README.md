@@ -1,16 +1,27 @@
-# fast_notes
+<img src="assets/logo/logo.png"> 
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Getting Started
+# Fast Notes
+Take and create notes on your device
 
-This project is a starting point for a Flutter application.
+# Platform Tested Compatibility
 
-A few resources to get you started if this is your first Flutter project:
+- [x] android
+- [?] web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Dependencies
+All plugins used on this project
+```
+dependencies :
+  url_launcher: ^6.2.6
+  path_provider: ^2.1.3
+  file_picker: ^8.0.3
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Permissions
+All permissions required for this application
+```
+
+```
